@@ -1,5 +1,5 @@
 # Summary
-This is a treebank of Haitian creole. It contains 3338 sentences and 307,382 words selected from 1 bible-related source and was annotated programmatically.
+This is a treebank for Haitian creole. It contains 3338 sentences and 307,382 words selected from 1 bible-related source and was annotated programmatically.
 
 Kreyòl (Kreyòl Ayisyen, Haitian Creole, iso-639-1: ht) is the main language of Haïti.
 
@@ -16,7 +16,7 @@ The sentences were randomly put into those 3 buckets.
 
 # Acknowledgments
 
-This conversion has been performed by Jephey Adolphe, a Rutgers Universoty alum.
+This conversion has been performed by Jephtey Adolphe, a Rutgers University alum.
 
 # Changelog
 
